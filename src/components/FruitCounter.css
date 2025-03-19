@@ -1,0 +1,61 @@
+.container {
+  background-color: white;
+  height: 90vh;
+  width: 75vh;
+  margin-left: 27px;
+  margin-top: 20px;
+  border-radius: 20px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image1 {
+  height: 120px;
+  margin-right: 20px;
+}
+
+.image2 {
+  height: 120px;
+  margin-left: 20px;
+}
+
+.heading {
+  text-align: center;
+  margin-bottom: 35px;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 20px;
+  margin-right: 10px;
+}
+
+.btn1 {
+  background-color: rgb(28, 20, 146);
+  color: white;
+  border-radius: 10px;
+  border-color: white;
+  padding: 10px;
+  margin-right: 20px;
+  margin-bottom: 50px;
+}
+
+.btn2 {
+  background-color: rgb(28, 20, 146);
+  color: white;
+  border-radius: 10px;
+  border-color: white;
+  padding: 10px;
+  margin-left: 20px;
+  margin-bottom: 50px;
+}
+
+.fruit-count {
+  color: rgb(229, 249, 103);
+}
